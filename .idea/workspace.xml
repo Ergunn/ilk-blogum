@@ -74,8 +74,8 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -87,9 +87,9 @@
             <state relative-caret-position="927">
               <caret line="518" column="35" lean-forward="false" selection-start-line="518" selection-start-column="35" selection-end-line="518" selection-end-column="35" />
               <folding>
-                <marker date="1491655512235" expanded="true" signature="27550:27592" ph="..." />
-                <marker date="1491655512235" expanded="true" signature="27550:27610" ph="..." />
-                <marker date="1491655512235" expanded="true" signature="27550:27623" ph="..." />
+                <marker date="1491655665973" expanded="true" signature="27556:27598" ph="..." />
+                <marker date="1491655665973" expanded="true" signature="27556:27616" ph="..." />
+                <marker date="1491655665973" expanded="true" signature="27556:27629" ph="..." />
               </folding>
             </state>
           </provider>
@@ -486,9 +486,9 @@
         <state relative-caret-position="927">
           <caret line="518" column="35" lean-forward="false" selection-start-line="518" selection-start-column="35" selection-end-line="518" selection-end-column="35" />
           <folding>
-            <marker date="1491655512235" expanded="true" signature="27550:27592" ph="..." />
-            <marker date="1491655512235" expanded="true" signature="27550:27610" ph="..." />
-            <marker date="1491655512235" expanded="true" signature="27550:27623" ph="..." />
+            <marker date="1491655665973" expanded="true" signature="27556:27598" ph="..." />
+            <marker date="1491655665973" expanded="true" signature="27556:27616" ph="..." />
+            <marker date="1491655665973" expanded="true" signature="27556:27629" ph="..." />
           </folding>
         </state>
       </provider>
@@ -515,8 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding />
         </state>
       </provider>
